@@ -1,0 +1,36 @@
+{ "frames": [
+   {
+    "filename": "Player_Arrow 0.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 61, "h": 18 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 1, "y": 23, "w": 61, "h": 18 },
+    "sourceSize": { "w": 64, "h": 64 },
+    "duration": 100
+   },
+   {
+    "filename": "Player_Arrow 1.aseprite",
+    "frame": { "x": 66, "y": 0, "w": 61, "h": 18 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 1, "y": 23, "w": 61, "h": 18 },
+    "sourceSize": { "w": 64, "h": 64 },
+    "duration": 100
+   }
+ ],
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.2.25-x64",
+  "image": "Player_Arrow.png",
+  "format": "RGBA8888",
+  "size": { "w": 127, "h": 18 },
+  "scale": "1",
+  "frameTags": [
+  ],
+  "layers": [
+   { "name": "Layer 1", "opacity": 255, "blendMode": "normal" }
+  ],
+  "slices": [
+  ]
+ }
+}

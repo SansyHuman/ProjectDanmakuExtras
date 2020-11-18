@@ -1,0 +1,56 @@
+{ "frames": [
+   {
+    "filename": "Yuresia_Still 0.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 63, "h": 116 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 46, "y": 7, "w": 63, "h": 116 },
+    "sourceSize": { "w": 128, "h": 128 },
+    "duration": 100
+   },
+   {
+    "filename": "Yuresia_Still 1.aseprite",
+    "frame": { "x": 68, "y": 0, "w": 63, "h": 116 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 46, "y": 7, "w": 63, "h": 116 },
+    "sourceSize": { "w": 128, "h": 128 },
+    "duration": 100
+   },
+   {
+    "filename": "Yuresia_Still 2.aseprite",
+    "frame": { "x": 136, "y": 0, "w": 63, "h": 116 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 46, "y": 7, "w": 63, "h": 116 },
+    "sourceSize": { "w": 128, "h": 128 },
+    "duration": 100
+   },
+   {
+    "filename": "Yuresia_Still 3.aseprite",
+    "frame": { "x": 204, "y": 0, "w": 65, "h": 65 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 31, "y": 42, "w": 65, "h": 65 },
+    "sourceSize": { "w": 128, "h": 128 },
+    "duration": 100
+   }
+ ],
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.2.25-x64",
+  "image": "Yuresia_Still.png",
+  "format": "RGBA8888",
+  "size": { "w": 269, "h": 116 },
+  "scale": "1",
+  "frameTags": [
+  ],
+  "layers": [
+   { "name": "Fill", "opacity": 255, "blendMode": "normal" },
+   { "name": "Line", "opacity": 255, "blendMode": "normal" },
+   { "name": "Slow", "opacity": 255, "blendMode": "normal" }
+  ],
+  "slices": [
+  ]
+ }
+}

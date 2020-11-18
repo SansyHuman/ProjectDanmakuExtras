@@ -1,0 +1,72 @@
+{ "frames": [
+   {
+    "filename": "Bullets 0.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 543, "h": 60 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 2, "y": 2, "w": 543, "h": 60 },
+    "sourceSize": { "w": 1174, "h": 126 },
+    "duration": 100
+   },
+   {
+    "filename": "Bullets 1.aseprite",
+    "frame": { "x": 0, "y": 70, "w": 616, "h": 64 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 616, "h": 64 },
+    "sourceSize": { "w": 1174, "h": 126 },
+    "duration": 100
+   },
+   {
+    "filename": "Bullets 2.aseprite",
+    "frame": { "x": 0, "y": 144, "w": 616, "h": 22 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 616, "h": 22 },
+    "sourceSize": { "w": 1174, "h": 126 },
+    "duration": 100
+   },
+   {
+    "filename": "Bullets 3.aseprite",
+    "frame": { "x": 0, "y": 176, "w": 598, "h": 62 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 598, "h": 62 },
+    "sourceSize": { "w": 1174, "h": 126 },
+    "duration": 100
+   },
+   {
+    "filename": "Bullets 4.aseprite",
+    "frame": { "x": 0, "y": 248, "w": 1174, "h": 126 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 1174, "h": 126 },
+    "sourceSize": { "w": 1174, "h": 126 },
+    "duration": 100
+   },
+   {
+    "filename": "Bullets 5.aseprite",
+    "frame": { "x": 0, "y": 384, "w": 127, "h": 18 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 127, "h": 18 },
+    "sourceSize": { "w": 1174, "h": 126 },
+    "duration": 100
+   }
+ ],
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.2.25-x64",
+  "image": "Bullets.png",
+  "format": "RGBA8888",
+  "size": { "w": 1174, "h": 402 },
+  "scale": "1",
+  "frameTags": [
+  ],
+  "layers": [
+   { "name": "Layer", "opacity": 255, "blendMode": "normal" }
+  ],
+  "slices": [
+  ]
+ }
+}

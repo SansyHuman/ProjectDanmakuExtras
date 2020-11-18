@@ -1,0 +1,100 @@
+{ "frames": [
+   {
+    "filename": "Ellipse_Bullet 0.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 64, "h": 22 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 0, "y": 21, "w": 64, "h": 22 },
+    "sourceSize": { "w": 64, "h": 64 },
+    "duration": 100
+   },
+   {
+    "filename": "Ellipse_Bullet 1.aseprite",
+    "frame": { "x": 69, "y": 0, "w": 64, "h": 22 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 0, "y": 21, "w": 64, "h": 22 },
+    "sourceSize": { "w": 64, "h": 64 },
+    "duration": 100
+   },
+   {
+    "filename": "Ellipse_Bullet 2.aseprite",
+    "frame": { "x": 138, "y": 0, "w": 64, "h": 22 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 0, "y": 21, "w": 64, "h": 22 },
+    "sourceSize": { "w": 64, "h": 64 },
+    "duration": 100
+   },
+   {
+    "filename": "Ellipse_Bullet 3.aseprite",
+    "frame": { "x": 207, "y": 0, "w": 64, "h": 22 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 0, "y": 21, "w": 64, "h": 22 },
+    "sourceSize": { "w": 64, "h": 64 },
+    "duration": 100
+   },
+   {
+    "filename": "Ellipse_Bullet 4.aseprite",
+    "frame": { "x": 276, "y": 0, "w": 64, "h": 22 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 0, "y": 21, "w": 64, "h": 22 },
+    "sourceSize": { "w": 64, "h": 64 },
+    "duration": 100
+   },
+   {
+    "filename": "Ellipse_Bullet 5.aseprite",
+    "frame": { "x": 345, "y": 0, "w": 64, "h": 22 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 0, "y": 21, "w": 64, "h": 22 },
+    "sourceSize": { "w": 64, "h": 64 },
+    "duration": 100
+   },
+   {
+    "filename": "Ellipse_Bullet 6.aseprite",
+    "frame": { "x": 414, "y": 0, "w": 64, "h": 22 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 0, "y": 21, "w": 64, "h": 22 },
+    "sourceSize": { "w": 64, "h": 64 },
+    "duration": 100
+   },
+   {
+    "filename": "Ellipse_Bullet 7.aseprite",
+    "frame": { "x": 483, "y": 0, "w": 64, "h": 22 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 0, "y": 21, "w": 64, "h": 22 },
+    "sourceSize": { "w": 64, "h": 64 },
+    "duration": 100
+   },
+   {
+    "filename": "Ellipse_Bullet 8.aseprite",
+    "frame": { "x": 552, "y": 0, "w": 64, "h": 22 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 0, "y": 21, "w": 64, "h": 22 },
+    "sourceSize": { "w": 64, "h": 64 },
+    "duration": 100
+   }
+ ],
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.2.25-x64",
+  "image": "Ellipse_Bullet.png",
+  "format": "RGBA8888",
+  "size": { "w": 616, "h": 22 },
+  "scale": "1",
+  "frameTags": [
+  ],
+  "layers": [
+   { "name": "Base", "opacity": 255, "blendMode": "normal" },
+   { "name": "Color", "opacity": 255, "blendMode": "normal" }
+  ],
+  "slices": [
+  ]
+ }
+}

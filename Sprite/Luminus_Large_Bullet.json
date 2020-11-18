@@ -1,0 +1,101 @@
+{ "frames": [
+   {
+    "filename": "Luminus_Large_Bullet 0.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 126, "h": 126 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 1, "y": 1, "w": 126, "h": 126 },
+    "sourceSize": { "w": 128, "h": 128 },
+    "duration": 100
+   },
+   {
+    "filename": "Luminus_Large_Bullet 1.aseprite",
+    "frame": { "x": 131, "y": 0, "w": 126, "h": 126 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 1, "y": 1, "w": 126, "h": 126 },
+    "sourceSize": { "w": 128, "h": 128 },
+    "duration": 100
+   },
+   {
+    "filename": "Luminus_Large_Bullet 2.aseprite",
+    "frame": { "x": 262, "y": 0, "w": 126, "h": 126 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 1, "y": 1, "w": 126, "h": 126 },
+    "sourceSize": { "w": 128, "h": 128 },
+    "duration": 100
+   },
+   {
+    "filename": "Luminus_Large_Bullet 3.aseprite",
+    "frame": { "x": 393, "y": 0, "w": 126, "h": 126 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 1, "y": 1, "w": 126, "h": 126 },
+    "sourceSize": { "w": 128, "h": 128 },
+    "duration": 100
+   },
+   {
+    "filename": "Luminus_Large_Bullet 4.aseprite",
+    "frame": { "x": 524, "y": 0, "w": 126, "h": 126 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 1, "y": 1, "w": 126, "h": 126 },
+    "sourceSize": { "w": 128, "h": 128 },
+    "duration": 100
+   },
+   {
+    "filename": "Luminus_Large_Bullet 5.aseprite",
+    "frame": { "x": 655, "y": 0, "w": 126, "h": 126 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 1, "y": 1, "w": 126, "h": 126 },
+    "sourceSize": { "w": 128, "h": 128 },
+    "duration": 100
+   },
+   {
+    "filename": "Luminus_Large_Bullet 6.aseprite",
+    "frame": { "x": 786, "y": 0, "w": 126, "h": 126 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 1, "y": 1, "w": 126, "h": 126 },
+    "sourceSize": { "w": 128, "h": 128 },
+    "duration": 100
+   },
+   {
+    "filename": "Luminus_Large_Bullet 7.aseprite",
+    "frame": { "x": 917, "y": 0, "w": 126, "h": 126 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 1, "y": 1, "w": 126, "h": 126 },
+    "sourceSize": { "w": 128, "h": 128 },
+    "duration": 100
+   },
+   {
+    "filename": "Luminus_Large_Bullet 8.aseprite",
+    "frame": { "x": 1048, "y": 0, "w": 126, "h": 126 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 1, "y": 1, "w": 126, "h": 126 },
+    "sourceSize": { "w": 128, "h": 128 },
+    "duration": 100
+   }
+ ],
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.2.25-x64",
+  "image": "Luminus_Large_Bullet.png",
+  "format": "RGBA8888",
+  "size": { "w": 1174, "h": 126 },
+  "scale": "1",
+  "frameTags": [
+  ],
+  "layers": [
+   { "name": "Layer 1", "opacity": 255, "blendMode": "normal" },
+   { "name": "Layer 2", "opacity": 255, "blendMode": "normal" },
+   { "name": "Layer 3", "opacity": 255, "blendMode": "normal" }
+  ],
+  "slices": [
+  ]
+ }
+}
