@@ -1,0 +1,46 @@
+{ "frames": [
+   {
+    "filename": "Shero 0.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 86, "h": 89 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 24, "y": 30, "w": 84, "h": 87 },
+    "sourceSize": { "w": 128, "h": 128 },
+    "duration": 100
+   },
+   {
+    "filename": "Shero 1.aseprite",
+    "frame": { "x": 87, "y": 0, "w": 86, "h": 89 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 24, "y": 30, "w": 84, "h": 87 },
+    "sourceSize": { "w": 128, "h": 128 },
+    "duration": 100
+   },
+   {
+    "filename": "Shero 2.aseprite",
+    "frame": { "x": 174, "y": 0, "w": 85, "h": 89 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 24, "y": 30, "w": 83, "h": 87 },
+    "sourceSize": { "w": 128, "h": 128 },
+    "duration": 100
+   }
+ ],
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.2.25-x64",
+  "image": "Shero.png",
+  "format": "RGBA8888",
+  "size": { "w": 259, "h": 89 },
+  "scale": "1",
+  "frameTags": [
+  ],
+  "layers": [
+   { "name": "Fill", "opacity": 255, "blendMode": "normal" },
+   { "name": "Line", "opacity": 255, "blendMode": "normal" }
+  ],
+  "slices": [
+  ]
+ }
+}
