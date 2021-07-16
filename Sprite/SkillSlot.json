@@ -1,0 +1,36 @@
+{ "frames": [
+   {
+    "filename": "SkillSlot 0.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 256, "h": 256 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 256, "h": 256 },
+    "sourceSize": { "w": 256, "h": 256 },
+    "duration": 100
+   },
+   {
+    "filename": "SkillSlot 1.aseprite",
+    "frame": { "x": 256, "y": 0, "w": 256, "h": 256 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 256, "h": 256 },
+    "sourceSize": { "w": 256, "h": 256 },
+    "duration": 100
+   }
+ ],
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.2.28-x64",
+  "image": "SkillSlot.png",
+  "format": "RGBA8888",
+  "size": { "w": 512, "h": 256 },
+  "scale": "1",
+  "frameTags": [
+  ],
+  "layers": [
+   { "name": "Outline", "opacity": 255, "blendMode": "normal" }
+  ],
+  "slices": [
+  ]
+ }
+}
