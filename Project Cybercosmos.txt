@@ -1,0 +1,20 @@
+Bootstrapping... Found bootloader
+Motherboard: IAM W390 Gold
+Found 4 CPUs
+CPU0: IAM Feynman 4995GX (1024 qb)
+CPU1: IAM Feynman 4995GX (1024 qb)
+CPU2: IAM Feynman 4995GX (1024 qb)
+CPU3: IAM Feynman 4500A (256 qb)
+Checking RAM...
+A0: 2,097,152 MB
+A1: 2,097,152 MB
+A2: 2,097,152 MB
+A3: 2,097,152 MB
+B0: 2,097,152 MB
+B1: 2,097,152 MB
+B2: 2,097,152 MB
+B3: 2,097,152 MB
+Checking file systems...
+Kernel version: Q-nux 3.15.176542
+Mounting local filesystems... ok.
+Initializing kernel variables... ok.
